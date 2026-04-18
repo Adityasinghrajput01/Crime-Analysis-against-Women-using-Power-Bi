@@ -50,32 +50,30 @@ The goal is to uncover **patterns, trends, and risk zones** to better understand
 *  Interactive filters (Year, Crime Type)
 
 ---
-
 ## 📸 Dashboard Screenshots
 
 ### 🏠 Homepage
 
-![Homepage](Screenshots/homepage.png)
+![Homepage](Screenshots/HomePage.png)
 
 ---
 
-### 🗺️ Risk Zone Visualization
+### 🗺️ Women Safety Risk Zones
 
-![Risk Map](Screenshots/risk-map.png)
-
----
-
-### 📊 State-wise Analysis
-
-![State Analysis](Screenshots/state-analysis.png)
+![Risk Map](Screenshots/Women%20safety%20risk%20zone.png)
 
 ---
 
-### 📈 Trends & Insights
+### 📊 State-wise Crime Analysis
 
-![Trends](Screenshots/trends.png)
+![State Analysis](Screenshots/State%20wise%20crime%20analysis.png)
 
 ---
+
+### 📈 Dashboard Overview
+
+![Dashboard](Screenshots/Dashboard.png)
+
 
 ## 🛠️ Tools & Technologies
 
