@@ -55,25 +55,25 @@ The goal is to uncover **patterns, trends, and risk zones** to better understand
 
 ### 🏠 Homepage
 
-![Homepage](screenshots/homepage.png)
+![Homepage](Screenshots/homepage.png)
 
 ---
 
 ### 🗺️ Risk Zone Visualization
 
-![Risk Map](screenshots/risk-map.png)
+![Risk Map](Screenshots/risk-map.png)
 
 ---
 
 ### 📊 State-wise Analysis
 
-![State Analysis](screenshots/state-analysis.png)
+![State Analysis](Screenshots/state-analysis.png)
 
 ---
 
 ### 📈 Trends & Insights
 
-![Trends](screenshots/trends.png)
+![Trends](Screenshots/trends.png)
 
 ---
 
